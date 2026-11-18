@@ -1,0 +1,26 @@
+Nombre,Departamento,Puesto,Salario_Anual,Salario_Relativo,Horas_Extra,Satisfaccion_1_10,Meses_En_Puesto,Desempeno_1_10,Modalidad,Antiguedad_Meses
+Alejandro Morales,Tecnología,Senior Frontend Engineer,72000,0.88,12,4,26,9,Presencial,34
+Valeria Domínguez,Tecnología,Product Manager,85000,1.05,5,8,14,9,Híbrido,24
+Carlos Mendoza,Tecnología,Lead DevOps Specialist,92000,0.82,15,3,30,10,Presencial,36
+Sofia Navarro,Tecnología,Data Scientist,78000,0.95,8,6,19,8,Remoto,22
+Gabriel Reyes,Tecnología,QA Automation Lead,64000,1.10,2,9,10,7,Híbrido,18
+Lucía Villalobos,Ventas,Account Executive Senior,58000,0.79,14,4,22,9,Presencial,28
+Mateo Cárdenas,Ventas,Director de Cuentas Estratégicas,98000,1.15,6,8,12,8,Híbrido,30
+Camila Estrada,Ventas,Sales Development Rep (SDR),36000,0.85,11,5,16,6,Híbrido,16
+Javier Ortiz,Ventas,Customer Success Manager,52000,0.92,9,5,20,7,Remoto,25
+Mariana Silva,Operaciones,Gerente de Operaciones,88000,1.02,10,7,15,9,Presencial,40
+Rodrigo Herrera,Operaciones,Coordinador de Logística,44000,0.84,13,4,25,8,Presencial,27
+Elena Torres,Operaciones,Analista de Procesos Lean,48000,0.98,4,8,9,8,Híbrido,14
+Daniel Vega,Operaciones,Especialista en Compras & Supply,46000,0.89,7,6,21,6,Híbrido,24
+Paula Gómez,Marketing,Growth Marketing Manager,68000,0.86,12,4,28,9,Híbrido,32
+Esteban Cruz,Marketing,Diseñador UI/UX Senior,62000,1.08,3,9,11,8,Remoto,20
+Natalia Benítez,Marketing,Content & Brand Strategist,49000,0.91,6,7,18,7,Híbrido,22
+Fernando Salgado,Marketing,Performance Marketing Lead,65000,0.93,9,5,23,8,Presencial,26
+Andrea Rios,RR.HH.,Talent Acquisition Specialist,47000,0.88,10,5,20,8,Híbrido,24
+Hugo Pacheco,RR.HH.,HR Business Partner,72000,1.04,4,8,14,9,Híbrido,28
+Beatriz Lozano,Tecnología,Security & Cloud Architect,105000,0.87,14,4,32,10,Presencial,38
+Emilio Ramos,Tecnología,Fullstack Developer,60000,0.96,5,7,13,8,Remoto,18
+Jimena Castro,Operaciones,Operations Specialist,42000,0.82,11,4,24,7,Presencial,26
+Ignacio Duarte,Ventas,Enterprise Account Executive,82000,1.02,7,7,15,8,Híbrido,22
+Lorena Paredes,Marketing,SEO & Content Lead,51000,1.12,2,9,8,8,Remoto,15
+Claudia Santana,RR.HH.,Compensation & Benefits Analyst,45000,0.94,5,7,17,7,Híbrido,21
